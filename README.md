@@ -24,4 +24,4 @@ I like agile practices, such as _Scrum_ and _Kanban_, whenever they represent a 
 
 Since 2011 I mainly work remotely and I try to value face time as much as possible.
 
-[PDF](maurizio de magnis - resume.pdf)
+[PDF](maurizio%20de%20magnis%20-%20resume.pdf)
